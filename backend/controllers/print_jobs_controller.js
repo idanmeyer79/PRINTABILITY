@@ -10,3 +10,4 @@ const postNewPrintJob = (req, res, next) => {
  
 
 exports.getNewPrintJob = getNewPrintJob;
+exports.postNewPrintJob = postNewPrintJob;
